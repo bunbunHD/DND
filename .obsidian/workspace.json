@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "5f74a45ed58288fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d19bcdaeb6dbdfa",
+        "type": "tabs",
+        "dimension": 82.62910798122066,
+        "children": [
+          {
+            "id": "88769f7f59c9a9dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHARACTERS/A CHARACTERS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A CHARACTERS"
+            }
+          },
+          {
+            "id": "396b5fd197a310c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHARACTERS/A CHARACTERS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A CHARACTERS"
+            }
+          },
+          {
+            "id": "2084f001071e01c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SESSIONS/Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 4"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4ec12bdef28a2834",
+        "type": "tabs",
+        "dimension": 17.370892018779344,
+        "children": [
+          {
+            "id": "96e489a9b90d11a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MISC/RULES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RULES"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69efab9108918236",
+    "type": "split",
+    "children": [
+      {
+        "id": "500757cfa60000e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83f67c019aeb610b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f38b648efa23595a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "46ded7f00c3cdd6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d70a6bb0dc5a0663",
+    "type": "split",
+    "children": [
+      {
+        "id": "52ffd5b285e452b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ea85f2145178c34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SESSIONS/SESSION 0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SESSION 0"
+            }
+          },
+          {
+            "id": "523aeb5e9a1fc473",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SESSIONS/SESSION 0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SESSION 0"
+            }
+          },
+          {
+            "id": "b91cf4ade323cba1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a080b480d1167469",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SESSIONS/SESSION 0.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SESSION 0"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2084f001071e01c9",
+  "lastOpenFiles": [
+    "SESSIONS/Session 3.md",
+    "SESSIONS/Session 2.md",
+    "Places/Phan-da-lin.md",
+    "NPC/Toothbik(Goblin NPC).md",
+    "NPC/Sister Garaele.md",
+    "NPC/Gundrin Rockseeker.md",
+    "NPC/King Groul.md",
+    "CHARACTERS/A CHARACTERS.md",
+    "SESSIONS/Session 4.md",
+    "CHARACTERS/Jericho.md",
+    "CHARACTERS/Leerreza.md",
+    "SESSIONS/Session 1.md",
+    "SESSIONS/SESSION 0.md",
+    "CHARACTERS/Gnomebrina.md",
+    "NPC/Sildar Hallwinter(BG).md",
+    "CHARACTERS/SLY.md",
+    "CHARACTERS/Creature.md",
+    "CHARACTERS/AWJOOL.md",
+    "Places/Goblin Cave.md",
+    "Places",
+    "NPC",
+    "MISC/RULES.md",
+    "SESSIONS/Pasted image 20250902195502.png",
+    "MISC",
+    "Untitled/TEST.md",
+    "create a link.md",
+    "Untitled 1",
+    "CHARACTERS/Creature",
+    "CHARACTERS",
+    "Welcome.md",
+    "SESSIONS"
+  ]
+}
